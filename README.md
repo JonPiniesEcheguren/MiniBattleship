@@ -41,5 +41,3 @@ El repositorio consta de 2 archivos .py:
 - main.py
 
 - functions.py
-
-  
